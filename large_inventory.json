@@ -1,0 +1,23 @@
+[
+    {"hostname": "core-sw1", "managementIpAddress": "10.0.0.1", "platformId": "C9300-24T", "softwareVersion": "17.3.3", "serialNumber": "FDO1234A1BC"},
+    {"hostname": "core-sw2", "managementIpAddress": "10.0.0.2", "platformId": "C9300-48P", "softwareVersion": "16.9.4", "serialNumber": "FDO2345B2CD"},
+    {"hostname": "dist-sw1", "managementIpAddress": "10.0.1.1", "platformId": "C9200-24P", "softwareVersion": "17.6.1", "serialNumber": "FDO3456C3EF"},
+    {"hostname": "dist-sw2", "managementIpAddress": "10.0.1.2", "platformId": "C9200L-48T-4G", "softwareVersion": "17.9.3", "serialNumber": "FDO4567D4GH"},
+    {"hostname": "access-sw1", "managementIpAddress": "10.0.2.1", "platformId": "C9300-24T", "softwareVersion": "17.3.1", "serialNumber": "FDO5678E5IJ"},
+    {"hostname": "access-sw2", "managementIpAddress": "10.0.2.2", "platformId": "C9200-48P", "softwareVersion": "17.12.1", "serialNumber": "FDO6789F6KL"},
+    {"hostname": "core-sw3", "managementIpAddress": "10.0.0.3", "platformId": "C9300-48P", "softwareVersion": "17.3.3", "serialNumber": "FDO7890G7MN"},
+    {"hostname": "access-sw3", "managementIpAddress": "10.0.2.3", "platformId": "C9200L-24P-4G", "softwareVersion": "16.9.4", "serialNumber": "FDO8901H8OP"},
+    {"hostname": "iot-sw1", "managementIpAddress": "10.0.3.1", "platformId": "IE3300", "softwareVersion": "17.6.1", "serialNumber": "FDO9012I9QR"},
+    {"hostname": "iot-sw2", "managementIpAddress": "10.0.3.2", "platformId": "IE3400", "softwareVersion": "17.3.1", "serialNumber": "FDO0123J0ST"},
+    {"hostname": "lab-sw1", "managementIpAddress": "10.0.4.1", "platformId": "C9200-24P", "softwareVersion": "16.9.4", "serialNumber": "FDO1123K1UV"},
+    {"hostname": "lab-sw2", "managementIpAddress": "10.0.4.2", "platformId": "C9300-24T", "softwareVersion": "17.3.1", "serialNumber": "FDO1223L2WX"},
+    {"hostname": "mgmt-sw1", "managementIpAddress": "10.0.5.1", "platformId": "C9200L-48P-4G", "softwareVersion": "17.9.3", "serialNumber": "FDO1323M3YZ"},
+    {"hostname": "mgmt-sw2", "managementIpAddress": "10.0.5.2", "platformId": "C9300-24T", "softwareVersion": "17.3.3", "serialNumber": "FDO1423N4AB"},
+    {"hostname": "guest-sw1", "managementIpAddress": "10.0.6.1", "platformId": "C9200L-24P-4G", "softwareVersion": "17.6.1", "serialNumber": "FDO1523O5CD"},
+    {"hostname": "guest-sw2", "managementIpAddress": "10.0.6.2", "platformId": "C9200-48P", "softwareVersion": "17.12.1", "serialNumber": "FDO1623P6EF"},
+    {"hostname": "prod-sw1", "managementIpAddress": "10.0.7.1", "platformId": "C9300-24T", "softwareVersion": "17.3.3", "serialNumber": "FDO1723Q7GH"},
+    {"hostname": "prod-sw2", "managementIpAddress": "10.0.7.2", "platformId": "C9200L-48T-4G", "softwareVersion": "17.3.1", "serialNumber": "FDO1823R8IJ"},
+    {"hostname": "prod-sw3", "managementIpAddress": "10.0.7.3", "platformId": "C9300-48P", "softwareVersion": "16.9.4", "serialNumber": "FDO1923S9KL"},
+    {"hostname": "prod-sw4", "managementIpAddress": "10.0.7.4", "platformId": "C9200-24P", "softwareVersion": "17.3.1", "serialNumber": "FDO2023T0MN"}
+  ]
+  
