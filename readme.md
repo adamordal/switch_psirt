@@ -13,6 +13,7 @@ This project is a Streamlit-based application for visualizing Cisco switch vulne
     ├── dnac_inventory.py # Cisco DNA Center inventory functions
     ├── gpt_utils.py     # GPT-related functions
     ├── utils.py         # General utility functions
+    
 ```
 
 ---
@@ -24,8 +25,8 @@ This project is a Streamlit-based application for visualizing Cisco switch vulne
 This is the main entry point for the Streamlit application. It handles the user interface, inventory loading, and visualization of vulnerabilities.
 
 Key Features:
-- Mock inventory for testing.
-- Upload functionality for custom inventory JSON files.
+- Integration with Cisco Catalyst Center to pull inventory.
+- Detection of key features in running configs to find relevance of PSIRTs.
 - Integration with Cisco PSIRT API for vulnerability correlation.
 - Integration with Cisco DNA Center for inventory retrieval.
 - GPT-generated executive summaries.
@@ -104,8 +105,6 @@ Key Features:
 
 ## Example Usage
 
-- **Mock Inventory**: Use the mock inventory to test the app without uploading a file.
-- **Upload Inventory**: Upload a JSON file containing device inventory to analyze vulnerabilities.
 - **Cisco DNA Center Integration**: Automatically retrieve inventory and configurations from Cisco DNA Center.
 - **Executive Summary**: View GPT-generated summaries for the riskiest devices.
 - **Charts and Filters**: Explore vulnerabilities by severity using interactive charts and filters.
